@@ -25,7 +25,7 @@ The primary goal of the game is to collect all the keys from the attractions and
 <p align="center">
 <br />
 Game Intro: <br/>
-<img src="https://imgur.com/D4pcAJU" height="80%" width="80%" alt="Game Intro"/>
+<img src="https://i.imgur.com/D4pcAJU.png" height="80%" width="80%" alt="Game Intro"/>
 <br />
 <br />
 
