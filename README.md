@@ -27,15 +27,12 @@ The primary goal of the game is to collect all the keys from the attractions and
 <p>The attraction features a random mix of riddles and clown encounters. Players must solve riddles to progress while avoiding the disorienting effects of clowns.</p>
 <ul>
   <li><b>Riddles:</b> Players encounter mirrors with a riddle, and must provide the correct answer to proceed. If they answer correctly, they feel closer to finding the key. An incorrect answer drains sanity.</li>
-  <li><b>Clowns:</b> Random clown encounters reduce the player’s sanity by 2 points, adding pressure as players navigate through the maze.</li>
+  <li><b>Clowns:</b> Random clown encounters reduce the player’s sanity by 2 points.</li>
 </ul>
 
-<h3>Sanity Management:</h3>
-<p>Sanity plays a central role in the House of Mirrors. As players fail to solve riddles or are startled by clowns, their sanity decreases. If sanity reaches zero, the game ends, and the player is overwhelmed by the eerie environment.</p>
-
 <h3>Key Collection:</h3>
-<p>The main objective in this attraction is to find a key by solving riddles and avoiding the sanity-draining effects of the environment. The key is randomly assigned after a correct answer, and the player may not find it after solving a riddle, adding a layer of unpredictability.</p>
-<p>Once the key is found, the player regains a bit of sanity and proceeds to the next stage. The player's sanity is capped at 10 points, ensuring they have enough mental fortitude to escape the maze.</p>
+<p>The main objective in this attraction is to find a key by solving riddles and avoiding the sanity-draining effects of the environment. The key is randomly assigned after a correct answer, and the player may not find it after solving a riddle.</p>
+<p>Once the key is found, the player regains a bit of sanity and proceeds to the next stage.</p>
 
 <h3>Movement and Choices:</h3>
 <p>Players can choose from three directions: left, right, or straight. The direction determines the type of encounter that follows. If an invalid direction is chosen, the game prompts the player to make a valid choice.</p>
