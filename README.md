@@ -22,6 +22,13 @@ The Red Show is a thrilling text-based adventure game that plunges players into 
 <h3>Objective</h3>
 The primary goal of the game is to collect all the keys from the attractions and escape the circus. Players need to manage their choices carefully to maintain their sanity and overcome the obstacles within each attraction. The game ends when the player either escapes by collecting all the keys or loses all their sanity, leading to a game over.
 
+<p align="center">
+<br />
+Game Intro: <br/>
+<img src="https://imgur.com/D4pcAJU" height="80%" width="80%" alt="Game Intro"/>
+<br />
+<br />
+
 <h2>Main Attractions</h2>
 <h3>🎫 House of Mirrors</h3>
 <p>The attraction features a random mix of riddles and clown encounters. Players must solve riddles to progress while avoiding the disorienting effects of clowns.</p>
