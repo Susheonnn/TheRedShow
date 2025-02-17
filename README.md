@@ -2,7 +2,7 @@
 
 <h2>Languages and Utilities Used</h2>
 <ul>
-  <li>Java for game logic and functionality</li>
+  <li>Python for game logic and functionality</li>
   <li>Console-based UI for text-based gameplay</li>
 </ul>
 
