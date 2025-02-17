@@ -44,6 +44,13 @@ Game Intro: <br/>
 <h4>Movement and Choices:</h4>
 <p>Players can choose from three directions: left, right, or straight. The direction determines the type of encounter that follows. If an invalid direction is chosen, the game prompts the player to make a valid choice.</p>
 
+<p align="center">
+House of Mirrors: <br/>
+<img src="https://i.imgur.com/SZkuPzb.png" height="80%" width="80%" alt="Game Intro"/>
+<br />
+<br />
+
+
 <h3>🏚 Haunted House</h3>
 <p>This attraction features a puzzle that requires arranging a series of paintings in the correct narrative order. The paintings depict stages of a knight’s journey, from setting out on a quest to returning victorious with treasure.</p>
 
@@ -61,7 +68,13 @@ Game Intro: <br/>
   <li>Incorrect orders reduce the number of attempts and sanity. If the player runs out of attempts or loses all sanity, they fail to solve the puzzle and are left in a state of despair.</li>
 </ul>
 
-<h3>Big Top:</h3>
+<p align="center">
+Haunted House: <br/>
+<img src="https://i.imgur.com/BTHnWI3.png" height="80%" width="80%" alt="Game Intro"/>
+<br />
+<br />
+
+<h3>🎪 Big Top:</h3>
 <p>The Big Top attraction challenges the player to cross a tightrope to reach a key at the other end. The player must choose from three actions during the tightrope walk:</p>
 
 <h4>Tightrope Walking:</h4>
@@ -88,3 +101,9 @@ Game Intro: <br/>
 </ul>
 
 <p>The game ends if the player either successfully crosses the tightrope and collects the key or loses all balance and falls off.</p>
+
+<p align="center">
+Big Top: <br/>
+<img src="https://i.imgur.com/PvOl98b.png" height="80%" width="80%" alt="Game Intro"/>
+<br />
+<br />
