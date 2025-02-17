@@ -54,3 +54,30 @@ The primary goal of the game is to collect all the keys from the attractions and
   <li>Incorrect orders reduce the number of attempts and sanity. If the player runs out of attempts or loses all sanity, they fail to solve the puzzle and are left in a state of despair.</li>
 </ul>
 
+<h3>Big Top:</h3>
+<p>The Big Top attraction challenges the player to cross a tightrope to reach a key at the other end. The player must choose from three actions during the tightrope walk:</p>
+
+<h4>Tightrope Walking:</h4>
+<p>The player must select from three actions:</p>
+<ul>
+    <li><b>Hop:</b> Advance quickly, but with a higher risk of losing balance.</li>
+    <li><b>Walk:</b> Advance slowly with the least chance of losing balance.</li>
+    <li><b>Wait:</b> Stay still to regain balance, but may lead to a clown encounter that drains sanity.</li>
+</ul>
+  
+<b>Balance System:</b> 
+<p>The player starts with a balance meter at 5. Each action impacts this balance:</p>
+<ul>
+    <li><b>Hop:</b> Advances more steps but risks a larger loss of balance.</li>
+    <li><b>Walk:</b> Advances slower with a smaller chance of losing balance.</li>
+    <li><b>Wait:</b> Regains balance without progressing but may trigger a clown encounter (20% chance), draining 1 sanity.</li>
+</ul>
+
+<h4>Steps and Progressions:</h4>
+<ul>
+    <li>The player must take 15 total steps to reach the key. Each action advances the player by a random amount between 1 and 4 steps.</li>
+    <li>Waiting may lead to a clown encounter that causes a 1 point sanity decrease</li>
+    <li>If the balance drops to zero, the player falls, losing 3 sanity points and making them leave the attraction.</li>
+</ul>
+
+<p>The game ends if the player either successfully crosses the tightrope and collects the key or loses all balance and falls off.</p>
